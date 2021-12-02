@@ -1,0 +1,10 @@
+[
+  {
+    "repository": "PixelExtended-Devices/kernel_xiaomi_whyred",
+    "target_path": "kernel/xiaomi/whyred"
+  },
+  {
+    "repository": "PixelExtended-Devices/vendor_xiaomi_whyred",
+    "target_path": "vendor/xiaomi/whyred"
+  }
+]
